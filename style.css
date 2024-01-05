@@ -1,0 +1,40 @@
+body {
+    background: #ffffff;
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+header {
+    color: #ffffff;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(252, 250, 250, 0.5);
+}
+
+section {
+    background: #ffffff;
+    border-radius: 20px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px #00000080;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+footer {
+    color: #ffffff;
+    text-align: center;
+    font-style: italic;
+    font-size: 13px;
+}
+
+div { 
+    text-align: center;
+    padding: 5px;
+}
+
+img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    box-shadow: 5px 5px 10px #00000080;
+}
+
